@@ -1,3 +1,5 @@
+body { background: #17295b }
+
 .container {
   max-width: 400px;
 }
@@ -11,7 +13,7 @@ input[type=text]:focus {
 }
 
 .todos-container li {
-  background: #484E53;
+  background: #2f4278;
 }
 
 i[data-trash] {
